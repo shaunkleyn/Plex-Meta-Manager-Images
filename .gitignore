@@ -1,2 +1,6 @@
 
 *.ini
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/Plex-Meta-Manager-Images/v17/.suo
+.vscode/settings.json
